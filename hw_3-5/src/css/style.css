@@ -1,0 +1,79 @@
+body{
+	box-sizing: border-box;
+	font-family: Arial;
+	margin-left:0px;
+	padding: 0px;
+	background-size: 100%;
+
+}
+
+
+
+
+
+.j{
+	margin: 10px;
+	text-indent:5em;
+	font-style: oblique;
+	font-weight: bold;
+
+
+}
+
+span{
+	font-family: Arial;
+	color: red;
+	text-decoration: underline;
+﻿
+
+}
+
+.imj{
+	background: rgba(255,255,255,0.6);
+ width: 100%;
+}
+
+h1{
+	color: black;
+	font-family: Arial;
+	text-align: center;
+}
+
+div p.p{
+	text-indent: 25px;
+}
+div.k{
+	border-radius: 10px;
+	padding: 10px;
+	display: inline-block;
+	margin: 10%;
+	margin-bottom:0px;
+	margin-top:0px;
+	 padding: 0px;
+	background:rgb(30,30,30,0.3);
+	text-align: justify;
+
+}
+h2{
+	text-align: center;
+}
+
+h3{
+	font-size: 30px;
+}
+
+.g{
+	margin-bottom: 0px;
+	font-size: 20px;
+	text-align:center;
+	padding: 0px;
+	margin-left: 0px;
+	margin-top:  0px;
+	
+}
+
+.next{
+margin-top: 10px;
+background: grey; 
+width: 1519px;
+}
