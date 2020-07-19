@@ -1,0 +1,83 @@
+*{
+	font-family: Tahoma;
+
+}
+
+.section{
+	display: inline-block;
+	padding: 150px 100px 30px 100px;
+}
+
+.header{
+	font-size: 20px;
+	color: 333;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+
+span{
+	display: block;
+}
+
+.video{
+margin-bottom:30px;
+}
+
+.row1{
+margin-bottom: 30px;
+}
+
+
+
+.form input{
+	margin-bottom: 12px;
+}
+.form-header{
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+
+}
+.form{
+	height: 315px;
+	width: 100%;
+	border: 5px solid #3c3cdd;
+	padding: 35px 20px;
+
+}
+
+
+.form-btn{
+margin: 10px auto;
+background-color: #3c3cdd;
+margin-top:50px;
+}
+
+.dis_img{
+	margin-bottom: 20px;
+	height: 100%;
+}
+
+.advantages{
+margin-bottom:150px;
+font-size: 24px;
+
+}
+h3{
+	margin-top: -20px;
+}
+
+.row3{
+	margin-bottom: 120px;
+}
+
+
+.clients{
+	margin-bottom: 45px;
+	width:100%;
+
+}
+
+.advantage_text{
+	margin-bottom: 40px;
+}
