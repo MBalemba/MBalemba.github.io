@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+.container{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.img_br{
+	height: 130px;
+
+}
+
+
+
+.h1_bottom{
+	margin-bottom: 50px;
+}
+
+div.hight{ 
+ 
+	margin-bottom: 20px;
+}
+
+
+.advantage{
+	margin-bottom: 0px;
+	margin-top: 8px;
+}
+
